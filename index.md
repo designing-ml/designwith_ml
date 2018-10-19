@@ -31,7 +31,6 @@ Design is the exploration of possibility, at once a critique of the present and 
 {:.lead}
 
 ## Motivation
-
 Traditionally, designers have 
 ![Purpose-Built vs Outcome-Oriented](assets/img/information/purpose_vs_outcome.png){:.lead data-width="1200" data-height="400"}
 The discontinuity in values between fields
