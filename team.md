@@ -34,7 +34,7 @@ description: >
 ## Anand Rajaraman
 <img alt="Anand Rajaraman" src="/assets/img/team/anand-square.jpg" data-width="300" data-height="300" />
 
-**Anand Rajaraman** is an entrepreneur and venture capitalist who received a PhD from Stanford in Computer Science in the 90s and has since launched several successful companies including Kosmix, which sold to Walmart for over $300 million. He was also the primary inventor of [Amazon Mechanical Turk]. He has over a decade of teaching experience at Stanford since he first launched the “Mining Massive Datasets” course in the CS department. 
+**Anand Rajaraman** is an entrepreneur and venture capitalist who received a PhD from Stanford in Computer Science in the 90s and has since launched several successful companies including Kosmix, which sold to Walmart for over $300 million. He was also the co-inventor of [Amazon Mechanical Turk]. He has over a decade of teaching experience at Stanford since he first launched the “Mining Massive Datasets” course in the CS department. 
 
 [MLUX]: https://www.meetup.com/MLUXSF/
 [Amazon Mechanical Turk]: https://www.mturk.com
