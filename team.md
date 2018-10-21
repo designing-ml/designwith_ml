@@ -24,12 +24,12 @@ description: >
 ## Abhay Agarwal
 <img alt="Abhay Agarwal" src="/assets/img/team/abhay-square.jpg" data-width="300" data-height="300" />
 
-**Abhay** is an ML researcher who turned towards design after realizing that most ML products into the foreseeable future would not be well designed, given the lack of frameworks for interdisciplinary collaboration. Prior to joining Stanford he worked on AI technologies as a Research Fellow at Microsoft Research. He holds two patents in computer-vision-based blind assistance, and has published his work to conferences such as CHI. 
+**Abhay** is an ML researcher who turned towards design after realizing that most ML products into the foreseeable future would not be well designed, given the difficulty of collaboration between disciplines. Prior to joining Stanford he worked on AI technologies as a Research Fellow at Microsoft Research. He holds two patents in computer-vision-based blind assistance, and has published his work to conferences such as CHI. 
 
 ## Michelle Carney
 <img alt="Michelle Carney" src="/assets/img/team/michelle-square.jpg" data-width="300" data-height="300" />
 
-**Michelle** is a UX Designer and Researcher with a computational neuroscience background who is combining quantitative and qualitative methods to create products that can empower people understand and engage with models and their data, and use data to enhance design decisions. She now runs the Machine Learning User Experience meetup in SF ([MLUX]) with over 1,200 members, focusing on tech talks from industry of how these two disciplines come together.
+**Michelle** is a UX Designer and Researcher at Amazon with a computational neuroscience background who is combining quantitative and qualitative methods to create products that can empower people understand and engage with models and their data, and use data to enhance design decisions. She now runs the Machine Learning User Experience meetup in SF ([MLUX]) with over 1,200 members, focusing on tech talks from industry of how these two disciplines come together.
 
 ## Anand Rajaraman
 <img alt="Anand Rajaraman" src="/assets/img/team/anand-square.jpg" data-width="300" data-height="300" />
