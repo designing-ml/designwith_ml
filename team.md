@@ -29,7 +29,7 @@ description: >
 ## Michelle Carney
 <img alt="Michelle Carney" src="/assets/img/team/michelle-square.jpg" data-width="300" data-height="300" />
 
-**Michelle** is a UX Designer and Researcher at Amazon with a computational neuroscience background who is combining quantitative and qualitative methods to create products that can empower people understand and engage with models and their data, and use data to enhance design decisions. She now runs the Machine Learning User Experience meetup in SF ([MLUX]) with over 1,200 members, focusing on tech talks from industry of how these two disciplines come together.
+**Michelle** is a UX Designer and Researcher at Amazon with a computational neuroscience and data science background from UC Berkeley. Her work deals with combining quantitative and qualitative methods to create products that can empower people understand and engage with models and their data, and use data to enhance design decisions. She now runs the Machine Learning User Experience meetup in SF ([MLUX]) with over 1,200 members, focusing on tech talks from industry of how these two disciplines come together.
 
 ## Anand Rajaraman
 <img alt="Anand Rajaraman" src="/assets/img/team/anand-square.jpg" data-width="300" data-height="300" />
