@@ -24,7 +24,7 @@ title:                 Designing Machine Learning
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  A course at the Stanford d.School on the intersection of Design
+  Designing Machine Learning is a course at the Stanford d.School on the intersection of Design
   and ML (machine learning) that is offered in the Winter quarter
   of 2018-2019
 
@@ -41,7 +41,10 @@ logo:                  /assets/icons/icon.png
 author:
   # Used by `jekyll-feed`:
   name:                Abhay Agarwal
-  email:               designing_ml@lists.stanford.edu
+  email:               abhayka@stanford.edu
+  about:               |
+    Abhay is a designer and ML researcher
+  picture:             /assets/img/logo.png
   # Used by `jekyll-seo-tag`:
   # twitter:             <username>
 

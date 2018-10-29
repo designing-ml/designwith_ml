@@ -1,0 +1,9 @@
+---
+title: d.School Pitch Video
+image: /assets/img/blog/pitch_night.png
+description: >
+  Watch our teaser video for d.School's pitch night
+hide_description: true
+hide_image: true
+---
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/JH7WO0Ko8Mk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
