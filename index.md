@@ -20,11 +20,11 @@ description: >
   of 2018-2019
 ---
 
-Designing Machine Learning is a project by the [Stanford d.School] to make Maching Learning (ML) more accessible to innovators from all disciplines. We believe that ML will soon be a widespread feature of products, services, systems, and experiences in all walks of life. In order to make this computational revolution possible, as well as to ensure that it closely follows human values, we must empower a new generation of professionals to incorporate ML into their creative process.
+Designing Machine Learning is a project by the [Stanford d.School] to make Machine Learning (ML) more accessible to innovators from all disciplines. We believe that ML will soon be a widespread feature of products, services, systems, and experiences in all walks of life. In order to make this computational revolution possible, as well as to ensure that it closely follows human values, we must empower a new generation of professionals to incorporate ML into their creative process.
 
-<!-- <h2>Reference</h2>
-1. TOC
-{:toc} -->
+**Quick Navigation**
+* TOC
+{:toc}
 
 ## Motivation
 Design is the exploration of possibility, at once a critique of the present and a supreme optimism about human ingenuity. In a way, machines are design made manifest. Machines are programmable constructs, giving limitless potential and new forms of agency to the designer. Machine learning is yet another axis of empowerment, still incipient in its capabilities. Perhaps it is the humility with which we have previously approached machine learning that has prevented us from applying it pervasively, or exposing it to wider inquiry.
@@ -36,6 +36,30 @@ Traditionally, designers have differed from data scientists in their approach to
 The discontinuity in values between fields
 {:.figure}
 
-_More information coming soon_
+## Course Information
 
+### Week 1
+
+Topics covered: Intro to Machine Learning, Decision-Making Systems, Class Logistics.
+
+_Readings Due Next Week_
+* **[Deloitte: State of AI in Enterprise]**
+* **[Quartz: The Data that Transformed AI Research]**
+* **[The Verge: Wikipedia Engages Nuclear Option]**
+* **[Human-Centered Machine Learning]**
+
+[Deloitte: State of AI in Enterprise]: https://www2.deloitte.com/content/dam/insights/us/articles/4780_State-of-AI-in-the-enterprise/DI_State-of-AI-in-the-enterprise-2nd-ed.pdf
+[Quartz: The Data that Transformed AI Research]: https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
+[The Verge: Wikipedia Engages Nuclear Option]: https://www.theverge.com/2018/12/4/18125359/wikipedia-trump-admin-account-security-hack
+[Human-Centered Machine Learning]: https://medium.com/google-design/human-centered-machine-learning-a770d10562cd 
+
+<!-- ### Week 2
+
+Topics covered: Understanding the Data Science Pipeline. Data Collection Systems. Content Filtering in Wikipedia
+
+_Readings Due Next Week_
+* **[Recommender Systems: From Algorithm to User Experience]**
+
+[Recommender Systems: From Algorithm to User Experience]: /assets/docs/Recommender-Systems.pdf
+ -->
 [Stanford d.school]: http://dschool.stanford.edu
