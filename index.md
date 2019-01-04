@@ -42,6 +42,9 @@ The discontinuity in values between fields
 
 Topics covered: Intro to Machine Learning, Decision-Making Systems, Class Logistics.
 
+_Assignments Due Next Week_
+* Take the course [intro quiz](https://goo.gl/forms/lK4H0575xNES8Mox1)
+
 _Readings Due Next Week_
 * **[Deloitte: State of AI in Enterprise]**
 * **[Quartz: The Data that Transformed AI Research]**
