@@ -38,18 +38,28 @@ The discontinuity in values between fields
 
 ## Course Information
 
+### Office Hours
+
+As a courtesy, for appointments please schedule at least four hours in advance to give us time to prepare.
+
+* **Abhay's Office Hours**: [Abhay's Scheduling Link]
+* **Michelle's Office Hours**: By appointment via e-mail (michelle.r.carney@gmail.com) and Wednesdays from 2PM-3PM in d.School Bay Studios (please e-mail to confirm space). 
+* **Anand's Office Hours**: By appointment via e-mail (datawocky@gmail.com).
+
+[Abhay's Scheduling Link]: https://calendly.com/abhayka/office-hours/
+
 ### Week 1
 
 Topics covered: Intro to Machine Learning, Decision-Making Systems, Class Logistics.
 
 _Assignments Due Next Week_
-* Take the course [intro quiz](https://goo.gl/forms/lK4H0575xNES8Mox1)
+* Take the course [intro survey](https://goo.gl/forms/lK4H0575xNES8Mox1)
 
 _Readings Due Next Week_
-* **[Deloitte: State of AI in Enterprise]**
-* **[Quartz: The Data that Transformed AI Research]**
-* **[The Verge: Wikipedia Engages Nuclear Option]**
-* **[Human-Centered Machine Learning]**
+* [Deloitte: State of AI in Enterprise]
+* [Quartz: The Data that Transformed AI Research]
+* [The Verge: Wikipedia Engages Nuclear Option]
+* [Human-Centered Machine Learning]
 
 [Deloitte: State of AI in Enterprise]: https://www2.deloitte.com/content/dam/insights/us/articles/4780_State-of-AI-in-the-enterprise/DI_State-of-AI-in-the-enterprise-2nd-ed.pdf
 [Quartz: The Data that Transformed AI Research]: https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
@@ -63,6 +73,6 @@ Topics covered: Understanding the Data Science Pipeline. Data Collection Systems
 _Readings Due Next Week_
 * **[Recommender Systems: From Algorithm to User Experience]**
 
-[Recommender Systems: From Algorithm to User Experience]: /assets/docs/Recommender-Systems.pdf
+[Recommender Systems: From Algorithm to User Experience]: https://link.springer.com/article/10.1007/s11257-011-9112-x
  -->
 [Stanford d.school]: http://dschool.stanford.edu
