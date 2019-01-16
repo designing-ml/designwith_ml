@@ -66,13 +66,22 @@ _Readings Due Next Week_
 [The Verge: Wikipedia Engages Nuclear Option]: https://www.theverge.com/2018/12/4/18125359/wikipedia-trump-admin-account-security-hack
 [Human-Centered Machine Learning]: https://medium.com/google-design/human-centered-machine-learning-a770d10562cd 
 
-<!-- ### Week 2
+### Week 2
 
 Topics covered: Understanding the Data Science Pipeline. Data Collection Systems. Content Filtering in Wikipedia
 
-_Readings Due Next Week_
-* **[Recommender Systems: From Algorithm to User Experience]**
+_Assignments Due Next Week_
+* Presentations for first guided investigation, [Wikipedia Abuse Filter]
 
+_Readings Due Next Week_
+* [Recommender Systems: From Algorithm to User Experience]
+* [Algorithms in practice: Comparing web journalism and criminal justice]
+* [The Netflix Prize: How a $1 Million Contest Changed Binge-Watching Forever]
+
+[Wikipedia Abuse Filter]: https://docs.google.com/document/d/1aoXaOgUrgEtpvFxt-vZGKLrc6JXjWwU3HM69opsBo4s/edit?usp=sharing
 [Recommender Systems: From Algorithm to User Experience]: https://link.springer.com/article/10.1007/s11257-011-9112-x
- -->
+[Algorithms in practice: Comparing web journalism and criminal justice]: https://journals.sagepub.com/doi/abs/10.1177/2053951717718855
+[The Netflix Prize: How a $1 Million Contest Changed Binge-Watching Forever]: https://www.thrillist.com/entertainment/nation/the-netflix-prize
+
+
 [Stanford d.school]: http://dschool.stanford.edu
