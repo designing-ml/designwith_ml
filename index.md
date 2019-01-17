@@ -73,6 +73,7 @@ Topics covered: Understanding the Data Science Pipeline. Data Collection Systems
 _Content From Class_
 * [Data: The Raw Material]
 * [Data Flow in an ML System]
+* [Colab Notebook on Data Science Pipeline]
 * [Content Filtering in Wikipedia]
 * [Colab Notebook on Wikipedia Filtering]
 
@@ -86,6 +87,7 @@ _Readings Due Next Week_
 
 [Data: The Raw Material]: /assets/docs/Data_Collection.pptx
 [Data Flow in an ML System]: /assets/docs/Data_Flow.pptx
+[Colab Notebook on Data Science Pipeline]: https://colab.research.google.com/drive/16ih9JPh1FQi6_XETj2e4G4JYYI5Qe0BI?ts=5c400d66
 [Content Filtering in Wikipedia]: /assets/docs/Content_Filtering_Wikipedia.pptx
 [Colab Notebook on Wikipedia Filtering]: https://drive.google.com/a/stanford.edu/file/d/10Btsvt7TU3L9RR4Va_8pE6Upkmc-urK2/view?usp=sharing
 [Wikipedia Abuse Filter]: https://docs.google.com/document/d/1aoXaOgUrgEtpvFxt-vZGKLrc6JXjWwU3HM69opsBo4s/edit?usp=sharing
