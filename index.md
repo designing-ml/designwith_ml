@@ -71,6 +71,9 @@ _Readings Due Next Week_
 Topics covered: Understanding the Data Science Pipeline. Data Collection Systems. Content Filtering in Wikipedia
 
 _Content From Class_
+* [Data: The Raw Material]
+* [Data Flow in an ML System]
+* [Content Filtering in Wikipedia]
 * [Colab Notebook on Wikipedia Filtering]
 
 _Assignments Due Next Week_
@@ -81,6 +84,9 @@ _Readings Due Next Week_
 * [Algorithms in practice: Comparing web journalism and criminal justice]
 * [The Netflix Prize: How a $1 Million Contest Changed Binge-Watching Forever]
 
+[Data: The Raw Material]: /assets/docs/Data_Collection.pptx
+[Data Flow in an ML System]: /assets/docs/Data_Flow.pptx
+[Content Filtering in Wikipedia]: /assets/docs/Content_Filtering_Wikipedia.pptx
 [Colab Notebook on Wikipedia Filtering]: https://drive.google.com/a/stanford.edu/file/d/10Btsvt7TU3L9RR4Va_8pE6Upkmc-urK2/view?usp=sharing
 [Wikipedia Abuse Filter]: https://docs.google.com/document/d/1aoXaOgUrgEtpvFxt-vZGKLrc6JXjWwU3HM69opsBo4s/edit?usp=sharing
 [Recommender Systems: From Algorithm to User Experience]: https://link.springer.com/article/10.1007/s11257-011-9112-x
