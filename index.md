@@ -79,6 +79,7 @@ _Content From Class_
 
 _Assignments Due Next Week_
 * Presentations for first guided investigation, [Wikipedia Abuse Filter]
+* Fill out and bring your brainstorming sheets along with print-outs of any materials you will turn in.
 
 _Readings Due Next Week_
 * [Recommender Systems: From Algorithm to User Experience]
