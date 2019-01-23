@@ -44,7 +44,7 @@ As a courtesy, for appointments please schedule at least four hours in advance t
 
 * **Abhay's Office Hours**: [Abhay's Scheduling Link]
 * **Michelle's Office Hours**: By appointment via e-mail (michelle.r.carney@gmail.com) and Wednesdays from 2PM-3PM in d.School Bay Studios (please e-mail to confirm space). 
-* **Anand's Office Hours**: By appointment via e-mail (datawocky@gmail.com).
+* **Anand's Office Hours**: By appointment via e-mail (datawocky@gmail.com) and Thursdays from 5PM-6PM in d.School Bay Studios (please e-mail to confirm space).
 
 [Abhay's Scheduling Link]: https://calendly.com/abhayka/office-hours/
 
@@ -96,5 +96,29 @@ _Readings Due Next Week_
 [Algorithms in practice: Comparing web journalism and criminal justice]: https://journals.sagepub.com/doi/abs/10.1177/2053951717718855
 [The Netflix Prize: How a $1 Million Contest Changed Binge-Watching Forever]: https://www.thrillist.com/entertainment/nation/the-netflix-prize
 
+### Week 3
+
+Topics covered: Machine Learning + User Experience. Supervised Learning. Recommender Systems & Netflix Prize.
+
+_Content From Class_
+* [Machine Learning + User Experience]
+
+<!-- * [Data Flow in an ML System]
+* [Colab Notebook on Data Science Pipeline]
+* [Content Filtering in Wikipedia]
+* [Colab Notebook on Wikipedia Filtering] -->
+
+_Assignments Due Next Week_
+* Presentations for second guided investigation, [Netflix Recommendation System]
+* Fill out and bring your brainstorming sheets along with print-outs of any materials you will turn in.
+
+_Readings Due Next Week_
+* [The Unreasonable Effectiveness of Data]
+* [Are Personas Done?]
+
+[Machine Learning + User Experience]: /assets/docs/User_Experience_Design.pdf
+[Netflix Recommendation System]: https://docs.google.com/document/d/1Bx5WAyUzUdw5b9v7c1nz9_D6TO-kL0D7w1gW6gabrfU/edit?usp=sharing
+[The Unreasonable Effectiveness of Data]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf
+[Are Personas Done?]: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_personas_done.pdf
 
 [Stanford d.school]: http://dschool.stanford.edu
