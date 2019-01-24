@@ -116,7 +116,7 @@ _Readings Due Next Week_
 [Machine Learning + User Experience]: /assets/docs/User_Experience_Design.pdf
 [ML Basics]: /assets/docs/ML_Basics.pptx
 [Netflix Prize]: /assets/docs/Netflix_Prize.pdf
-[Netflix Recommendation System]: https:Netflix_Prize.pdf//docs.google.com/document/d/1Bx5WAyUzUdw5b9v7c1nz9_D6TO-kL0D7w1gW6gabrfU/edit?usp=sharing
+[Netflix Recommendation System]: https://docs.google.com/document/d/1Bx5WAyUzUdw5b9v7c1nz9_D6TO-kL0D7w1gW6gabrfU/edit?usp=sharing
 [The Unreasonable Effectiveness of Data]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf
 [Are Personas Done?]: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_personas_done.pdf
 
