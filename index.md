@@ -112,6 +112,8 @@ _Assignments Due Next Week_
 _Readings Due Next Week_
 * [The Unreasonable Effectiveness of Data]
 * [Are Personas Done?]
+* [A Visual Introduction to Machine Learning]. Read parts 1 & 2. Typed notes are okay as a hand-in for this reading.
+* [Data-Driven Personas at Salesforce]
 
 [Machine Learning + User Experience]: /assets/docs/User_Experience_Design.pdf
 [ML Basics]: /assets/docs/ML_Basics.pptx
@@ -119,5 +121,7 @@ _Readings Due Next Week_
 [Netflix Recommendation System]: https://docs.google.com/document/d/1Bx5WAyUzUdw5b9v7c1nz9_D6TO-kL0D7w1gW6gabrfU/edit?usp=sharing
 [The Unreasonable Effectiveness of Data]: https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/35179.pdf
 [Are Personas Done?]: http://www.bernardjjansen.com/uploads/2/4/1/8/24188166/jansen_personas_done.pdf
+[A Visual Introduction to Machine Learning]: http://www.r2d3.us
+[Data-Driven Personas at Salesforce]: https://medium.com/salesforce-ux/data-driven-personas-at-salesforce-cdd0dd321281
 
 [Stanford d.school]: http://dschool.stanford.edu
