@@ -126,4 +126,39 @@ _Readings Due Next Week_
 [A Visual Introduction to Machine Learning]: http://www.r2d3.us
 [Data-Driven Personas at Salesforce]: https://medium.com/salesforce-ux/data-driven-personas-at-salesforce-cdd0dd321281
 
+### Week 4
+
+Topics covered: Present Netflix Projects. Prototyping in ML. Data Visualization & Data Exploration. Clustering Data. Project on Meetup Data Set.
+
+_Content From Class_
+* [ML Basics (updated)]
+* [Data Viz]
+* [Meetup Activity]
+* [Meetup.com API Tableau Visualization]
+* [Meetup.com Clustering Walkthrough]
+
+_Assignments Due Next Week_
+* **None** 
+* Design Project #1 due in Week 6: [Design Project: Meetup]
+
+_Readings For Next Week_
+* [Deep Learning]
+* [Machine Learning Yearning] Sections 13 - 19
+* [Image Style Transfer Using Convolutional Neural Networks] OR [non-technical intro to same content]
+
+_Resources Mentioned In Class_
+* [Visual Prototyping Tools Comparison]
+
+[ML Basics (updated)]: /assets/docs/ML_Basics.pptx
+[Data Viz]: /assets/docs/Week_4_Data_Viz.pdf
+[Meetup Activity]: /assets/docs/Meetup_Activity.pdf
+[Design Project: Meetup]: https://docs.google.com/document/d/1j3Mox63tDM1ip0_JupiQjrqw6KhamT8nIJk8x_9Al7Q/edit?usp=sharing
+[Deep Learning]: https://www.nature.com/articles/nature14539
+[Machine Learning Yearning]: http://www.mlyearning.org
+[Image Style Transfer Using Convolutional Neural Networks]: https://ieeexplore.ieee.org/document/7780634
+[non-technical intro to same content]: https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd
+[Visual Prototyping Tools Comparison]: https://www.cooper.com/prototyping-tools
+[Meetup.com API Tableau Visualization]: https://public.tableau.com/profile/michelle.carney#!/vizhome/meetupexamplefordschool/Meetupinteractivedashboard?publish=yes
+[Meetup.com Clustering Walkthrough]: /assets/docs/Meetup_clustering_sample.html
+
 [Stanford d.school]: http://dschool.stanford.edu
