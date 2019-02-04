@@ -48,6 +48,10 @@ As a courtesy, for appointments please schedule at least four hours in advance t
 
 [Abhay's Scheduling Link]: https://calendly.com/abhayka/office-hours/
 
+### Music From Class
+
+<iframe src="https://open.spotify.com/embed/user/aabhay/playlist/3ca4P4mqHERjz4oS8NYpXO" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Week 1
 
 Topics covered: Intro to Machine Learning, Decision-Making Systems, Class Logistics.
@@ -135,7 +139,7 @@ _Content From Class_
 * [Data Viz]
 * [Meetup Activity]
 * [Meetup.com API Tableau Visualization]
-* [Meetup.com Clustering Walkthrough]
+* Meetup.com clustering walkthrough: here is the [clustering .ipynb file with annotations](/assets/docs/Meetup_Clustering_Sample.ipynb), here are the [results](/assets/docs/Meetup_clustering_sample.html), and here are the [output clusters as .csv](/assets/docs/Meetup_Members_Cluster_Group.csv)
 
 _Assignments Due Next Week_
 * **None** 
@@ -152,13 +156,12 @@ _Resources Mentioned In Class_
 [ML Basics (updated)]: /assets/docs/ML_Basics.pptx
 [Data Viz]: /assets/docs/Week_4_Data_Viz.pdf
 [Meetup Activity]: /assets/docs/Meetup_Activity.pdf
+[Meetup.com API Tableau Visualization]: https://public.tableau.com/profile/michelle.carney#!/vizhome/meetupexamplefordschool/Meetupinteractivedashboard?publish=yes
 [Design Project: Meetup]: https://docs.google.com/document/d/1j3Mox63tDM1ip0_JupiQjrqw6KhamT8nIJk8x_9Al7Q/edit?usp=sharing
 [Deep Learning]: https://www.nature.com/articles/nature14539
 [Machine Learning Yearning]: http://www.mlyearning.org
 [Image Style Transfer Using Convolutional Neural Networks]: https://ieeexplore.ieee.org/document/7780634
 [non-technical intro to same content]: https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd
 [Visual Prototyping Tools Comparison]: https://www.cooper.com/prototyping-tools
-[Meetup.com API Tableau Visualization]: https://public.tableau.com/profile/michelle.carney#!/vizhome/meetupexamplefordschool/Meetupinteractivedashboard?publish=yes
-[Meetup.com Clustering Walkthrough]: /assets/docs/Meetup_clustering_sample.html
 
 [Stanford d.school]: http://dschool.stanford.edu
