@@ -139,7 +139,10 @@ _Content From Class_
 * [Data Viz]
 * [Meetup Activity]
 * [Meetup.com API Tableau Visualization]
-* Meetup.com clustering walkthrough: here is the [clustering .ipynb file with annotations](/assets/docs/Meetup_Clustering_Sample.ipynb), here are the [results](/assets/docs/Meetup_clustering_sample.html), and here are the [output clusters as .csv](/assets/docs/Meetup_Members_Cluster_Group.csv)
+* Meetup.com clustering 
+	* Raw data from Meetup can be found [here](https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom)
+	* Category Membership Model (Michelle): here is the [clustering .ipynb file with annotations](/assets/docs/Meetup_Clustering_Sample.ipynb), here are the [results](/assets/docs/Meetup_clustering_sample.html), and here are the [output clusters as .csv](/assets/docs/Meetup_Members_Cluster_Group.csv)
+	* Group Descriptions Model (Abhay): [you can play around with the colab notebook here](https://drive.google.com/open?id=1TyAhlbdQDXtYLY5AmlUTcXSP9RyO-OZG)
 
 _Assignments Due Next Week_
 * **None** 
@@ -163,5 +166,30 @@ _Resources Mentioned In Class_
 [Image Style Transfer Using Convolutional Neural Networks]: https://ieeexplore.ieee.org/document/7780634
 [non-technical intro to same content]: https://medium.com/data-science-group-iitr/artistic-style-transfer-with-convolutional-neural-network-7ce2476039fd
 [Visual Prototyping Tools Comparison]: https://www.cooper.com/prototyping-tools
+
+### Week 5
+
+Topics covered: Introduction to Neural Network Systems and High-Dimensional Classifiers. Image & Video Processing.
+
+_Content From Class_
+* [Where are we? + Neural Systems]
+
+_Assignments Due Next Week_
+* [Design Project: Meetup]
+
+_Readings For Next Week_
+* [Ten Questions Concerning Generative Computer Art]
+* [Teaching Machines to Draw]
+* [StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings]
+* [GANGough: Creating Art with GANs]
+* [AI Enters Dance Dance Revolution]
+
+
+[Where are we? + Neural Systems]: /assets/docs/Where_are_we.pdf
+[Ten Questions Concerning Generative Computer Art]: http://jonmccormack.info/wp-content/uploads/2012/10/TenQuestionsV3.pdf
+[Teaching Machines to Draw]: https://ai.googleblog.com/2017/04/teaching-machines-to-draw.html
+[StyLit: Illumination-Guided Example-Based Stylization of 3D Renderings]: http://dcgi.fel.cvut.cz/home/sykorad/Fiser16-SIG.pdf
+[GANGough: Creating Art with GANs]: https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1
+[AI Enters Dance Dance Revolution]: https://www.theregister.co.uk/2017/03/24/ai_enters_dance_dance_revolution/
 
 [Stanford d.school]: http://dschool.stanford.edu
