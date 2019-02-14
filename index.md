@@ -192,4 +192,42 @@ _Readings For Next Week_
 [GANGough: Creating Art with GANs]: https://towardsdatascience.com/gangogh-creating-art-with-gans-8d087d8f74a1
 [AI Enters Dance Dance Revolution]: https://www.theregister.co.uk/2017/03/24/ai_enters_dance_dance_revolution/
 
+### Week 6
+
+Topics covered: Present Meetup Project Work. Continued Study on Neural Networks. Generative Design & GANs.
+
+_Content From Class_
+* Drawing with Neural Networks
+	* [Talk by David Ha] and [talk by Alex Chen]
+	* [Google Quickdraw] and the [Quickdraw dataset]
+	* [Google Autodraw] and [Sketch RNN]
+	* [The way you draw circles says a lot about you]
+* [Generative Design]
+* Chris Donahue: [Pairing human control with generative models for creative content synthesis]
+
+_Assignments Due Next Week_
+* **None** 
+
+_Readings For Next Week_
+* [Analogy as the Core of Cognition]
+* [Alexa, Should we Trust You?]
+* [The Siri Experience]
+* [Lilt is building a machine translation business with humans at its core]
+
+
+[Talk by David Ha]: https://vimeo.com/287093517
+[talk by Alex Chen]: https://vimeo.com/232541082
+[Google Quickdraw]: https://quickdraw.withgoogle.com/
+[Quickdraw dataset]: https://quickdraw.withgoogle.com/data/octopus
+[Google Autodraw]: https://www.autodraw.com/
+[Sketch RNN]: https://magenta.tensorflow.org/assets/sketch_rnn_demo/index.html
+[The way you draw circles says a lot about you]: https://qz.com/994486/the-way-you-draw-circles-says-a-lot-about-you/
+[Generative Design]: /assets/docs/Generative_Design.pdf
+[Pairing human control with generative models for creative content synthesis]: /assets/docs/DESINST_240_Donahue.pdf
+[Analogy as the Core of Cognition]: /assets/docs/Surfaces_and_Essences_Prologue.pdf
+[Alexa, Should we Trust You?]: https://www.theatlantic.com/magazine/archive/2018/11/alexa-how-will-you-change-us/570844/
+[The Siri Experience]: https://pdfs.semanticscholar.org/5850/206b633dbe74e1b873ef333a99148d706909.pdf
+[Lilt is building a machine translation business with humans at its core]: https://techcrunch.com/2019/02/11/lilt-is-building-a-machine-translation-business-with-humans-at-the-core/
+
+
 [Stanford d.school]: http://dschool.stanford.edu
