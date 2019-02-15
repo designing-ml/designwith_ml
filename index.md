@@ -210,6 +210,7 @@ _Assignments Due Next Week_
 
 _Readings For Next Week_
 * [Analogy as the Core of Cognition]
+* [Better Language Models]
 * [Alexa, Should we Trust You?]
 * [The Siri Experience]
 * [Lilt is building a machine translation business with humans at its core]
@@ -225,6 +226,7 @@ _Readings For Next Week_
 [Generative Design]: /assets/docs/Generative_Design.pdf
 [Pairing human control with generative models for creative content synthesis]: /assets/docs/DESINST_240_Donahue.pdf
 [Analogy as the Core of Cognition]: /assets/docs/Surfaces_and_Essences_Prologue.pdf
+[Better Language Models]: https://blog.openai.com/better-language-models/
 [Alexa, Should we Trust You?]: https://www.theatlantic.com/magazine/archive/2018/11/alexa-how-will-you-change-us/570844/
 [The Siri Experience]: https://pdfs.semanticscholar.org/5850/206b633dbe74e1b873ef333a99148d706909.pdf
 [Lilt is building a machine translation business with humans at its core]: https://techcrunch.com/2019/02/11/lilt-is-building-a-machine-translation-business-with-humans-at-the-core/
