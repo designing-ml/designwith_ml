@@ -231,5 +231,22 @@ _Readings For Next Week_
 [The Siri Experience]: https://pdfs.semanticscholar.org/5850/206b633dbe74e1b873ef333a99148d706909.pdf
 [Lilt is building a machine translation business with humans at its core]: https://techcrunch.com/2019/02/11/lilt-is-building-a-machine-translation-business-with-humans-at-the-core/
 
+### Week 7
+
+Topics covered: Natural Language Processing and Voice Interfaces. Conversational UI Activity. Second Project Begins with Lilt.
+
+_Assignments Due Next Week_
+* **None**
+* Design Project #2 due in Week 9: [Design Project: Lilt]
+
+_Readings For Next Week_
+* [Engelbart: Augmenting Human Intellect]
+* [ML: The high interest credit card of tech debt]
+* [Power to the People: The Role of Humans in Interactive Machine Learning]
+
+[Design Project: Lilt]: https://docs.google.com/document/d/1HfzfbjLrR_Y-t8NJ-g9APY944U6O3eaP7D17T6eOURY/edit?usp=sharing
+[Engelbart: Augmenting Human Intellect]: https://web.stanford.edu/class/history34q/readings/Engelbart/Engelbart_AugmentIntellect.html
+[ML: The high interest credit card of tech debt]: http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
+[Power to the People: The Role of Humans in Interactive Machine Learning]: https://www.aaai.org/ojs/index.php/aimagazine/article/view/2513
 
 [Stanford d.school]: http://dschool.stanford.edu
