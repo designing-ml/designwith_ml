@@ -235,6 +235,11 @@ _Readings For Next Week_
 
 Topics covered: Natural Language Processing and Voice Interfaces. Conversational UI Activity. Second Project Begins with Lilt.
 
+_Content From Class_
+* [Open Domain Natural Language Processing]
+* [Chatbots and VUIs]
+* [Lilt]
+
 _Assignments Due Next Week_
 * **None**
 * Design Project #2 due in Week 9: [Design Project: Lilt]
@@ -243,10 +248,15 @@ _Readings For Next Week_
 * [Engelbart: Augmenting Human Intellect]
 * [ML: The high interest credit card of tech debt]
 * [Power to the People: The Role of Humans in Interactive Machine Learning]
+* [Robert from Lilt discussing OpenAI GPT-2]
 
+[Open Domain Natural Language Processing]: /assets/docs/Week7_NLP.pdf
+[Chatbots and VUIs]: /assets/docs/Week7_VUIs.pdf
+[Lilt]: /assets/docs/Week7_Lilt.pdf
 [Design Project: Lilt]: https://docs.google.com/document/d/1HfzfbjLrR_Y-t8NJ-g9APY944U6O3eaP7D17T6eOURY/edit?usp=sharing
 [Engelbart: Augmenting Human Intellect]: https://web.stanford.edu/class/history34q/readings/Engelbart/Engelbart_AugmentIntellect.html
 [ML: The high interest credit card of tech debt]: http://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43146.pdf
 [Power to the People: The Role of Humans in Interactive Machine Learning]: https://www.aaai.org/ojs/index.php/aimagazine/article/view/2513
+[Robert from Lilt discussing OpenAI GPT-2]: https://www.youtube.com/watch?v=LWDbAoPyQAk
 
 [Stanford d.school]: http://dschool.stanford.edu
