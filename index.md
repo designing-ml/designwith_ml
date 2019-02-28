@@ -259,4 +259,29 @@ _Readings For Next Week_
 [Power to the People: The Role of Humans in Interactive Machine Learning]: https://www.aaai.org/ojs/index.php/aimagazine/article/view/2513
 [Robert from Lilt discussing OpenAI GPT-2]: https://www.youtube.com/watch?v=LWDbAoPyQAk
 
+### Week 8
+
+Topics covered: Human-Machine Interaction. Social and Cultural Factors in Machine Learning. Ethics and Bias.
+
+_Content From Class_
+* [Human-Machine Interaction]
+* [Survey of AI Ethics]
+* [Ethical Considerations in Designing ML]
+
+_Assignments Due Next Week_
+* Design Project #2: [Design Project: Lilt]
+
+_Readings For Next Week_
+* [How to Prevent Discriminatory Outcomes in Machine Learning]
+* [How AI Changed Organ Donation in the US]
+* [The Moral Machine Experiment]
+
+
+[Human-Machine Interaction]: /assets/docs/Human_Machine_Interaction.pdf
+[Survey of AI Ethics]: /assets/docs/Week_8_AI_Ethics.pptx
+[Ethical Considerations in Designing ML]: /assets/docs/Ethical_Considerations.pdf
+[How to Prevent Discriminatory Outcomes in Machine Learning]: http://www3.weforum.org/docs/WEF_40065_White_Paper_How_to_Prevent_Discriminatory_Outcomes_in_Machine_Learning.pdf
+[How AI Changed Organ Donation in the US]: https://qz.com/1383083/how-ai-changed-organ-donation-in-the-us/
+[The Moral Machine Experiment]: https://www.nature.com/articles/s41586-018-0637-6
+
 [Stanford d.school]: http://dschool.stanford.edu
