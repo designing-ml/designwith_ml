@@ -270,6 +270,7 @@ _Content From Class_
 
 _Assignments Due Next Week_
 * Design Project #2: [Design Project: Lilt]
+* Play around with the "...what if" tool, and take note of any findings.
 
 _Readings For Next Week_
 * [How to Prevent Discriminatory Outcomes in Machine Learning]
