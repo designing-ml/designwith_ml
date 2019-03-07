@@ -285,4 +285,20 @@ _Readings For Next Week_
 [How AI Changed Organ Donation in the US]: https://qz.com/1383083/how-ai-changed-organ-donation-in-the-us/
 [The Moral Machine Experiment]: https://www.nature.com/articles/s41586-018-0637-6
 
+### Week 9
+
+Topics covered: Present Second Project Work. Human Factors in Designing ML. Continued Work on Ethics.
+
+_Speakers From Class_
+* [Elger Oberwelz], Executive Design Director at IDEO
+* [Christian Ramsey], Data Scientist and Researcher at IDEO
+* [Andrea Gagliano], Lead Visual Intelligence Researcher at Getty Images
+
+_Readings For Next Week_
+* **None**
+
+[Elger Oberwelz]: https://www.ideo.com/people/elger-oberwelz
+[Christian Ramsey]: https://www.linkedin.com/in/christianramsey/
+[Andrea Gagliano]: http://www.andrea-gagliano.com/
+
 [Stanford d.school]: http://dschool.stanford.edu
