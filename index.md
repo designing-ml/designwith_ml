@@ -50,8 +50,8 @@ As a courtesy, for appointments please schedule at least four hours in advance t
 
 ### Music From Class
 
-<iframe src="https://open.spotify.com/embed/user/aabhay/playlist/3ca4P4mqHERjz4oS8NYpXO" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-
+<!-- <iframe src="https://open.spotify.com/embed/user/aabhay/playlist/3ca4P4mqHERjz4oS8NYpXO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+ -->
 ### Week 1
 
 Topics covered: Intro to Machine Learning, Decision-Making Systems, Class Logistics.
