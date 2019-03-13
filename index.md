@@ -301,4 +301,11 @@ _Readings For Next Week_
 [Christian Ramsey]: https://www.linkedin.com/in/christianramsey/
 [Andrea Gagliano]: http://www.andrea-gagliano.com/
 
+### Week 10
+
+Topics covered: Disruption and innovation in ML, Consequences of ML Systems.
+
+_Content From Class_
+* Please fill out the [anonymous survey form here](https://goo.gl/forms/ALFEbJWqxQL0Wisv2) to provide us feedback on the course.
+
 [Stanford d.school]: http://dschool.stanford.edu
