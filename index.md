@@ -46,7 +46,7 @@ As a courtesy, for appointments please schedule at least four hours in advance t
 * **Michelle's Office Hours**: By appointment via e-mail (michelle.r.carney@gmail.com) and Wednesdays from 2PM-3PM in d.School Bay Studios (please e-mail to confirm space). 
 * **Anand's Office Hours**: By appointment via e-mail (datawocky@gmail.com) and Thursdays from 5PM-6PM in d.School Bay Studios (please e-mail to confirm space).
 
-[Abhay's Scheduling Link]: https://calendly.com/abhayka/office-hours/
+[Abhay's Scheduling Link]: https://calendly.com/abhayka
 
 ### Music From Class
 
