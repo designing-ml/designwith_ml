@@ -50,8 +50,8 @@ As a courtesy, for appointments please schedule at least four hours in advance t
 
 ### Music From Class
 
-<!-- <iframe src="https://open.spotify.com/embed/user/aabhay/playlist/3ca4P4mqHERjz4oS8NYpXO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
- -->
+<iframe src="https://open.spotify.com/embed/user/aabhay/playlist/3ca4P4mqHERjz4oS8NYpXO" width="100%" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 ### Week 1
 
 Topics covered: Intro to Machine Learning, Decision-Making Systems, Class Logistics.
@@ -306,6 +306,11 @@ _Readings For Next Week_
 Topics covered: Disruption and innovation in ML, Consequences of ML Systems.
 
 _Content From Class_
+* [Pre-Mortem Activity]
+* [Disruption and Innovation]
 * Please fill out the [anonymous survey form here](https://goo.gl/forms/ALFEbJWqxQL0Wisv2) to provide us feedback on the course.
+
+[Pre-Mortem Activity]: /assets/docs/premortem.pdf
+[Disruption and Innovation]: /assets/docs/disruption.pdf
 
 [Stanford d.school]: http://dschool.stanford.edu
