@@ -94,7 +94,7 @@ _Readings Due Next Week_
 [Data Flow in an ML System]: /assets/docs/Data_Flow.pptx
 [Colab Notebook on Data Science Pipeline]: https://colab.research.google.com/drive/16ih9JPh1FQi6_XETj2e4G4JYYI5Qe0BI?ts=5c400d66
 [Content Filtering in Wikipedia]: /assets/docs/Content_Filtering_Wikipedia.pptx
-[Colab Notebook on Wikipedia Filtering]: https://colab.research.google.com/drive/1mp4Bu-_lX42JcjOcnW3dczGJZgaarm1t
+[Colab Notebook on Wikipedia Filtering]: https://drive.google.com/a/stanford.edu/file/d/10Btsvt7TU3L9RR4Va_8pE6Upkmc-urK2/view?usp=sharing
 [Wikipedia Abuse Filter]: https://docs.google.com/document/d/1aoXaOgUrgEtpvFxt-vZGKLrc6JXjWwU3HM69opsBo4s/edit?usp=sharing
 [Recommender Systems: From Algorithm to User Experience]: https://link.springer.com/article/10.1007/s11257-011-9112-x
 [Algorithms in practice: Comparing web journalism and criminal justice]: https://journals.sagepub.com/doi/abs/10.1177/2053951717718855
@@ -142,7 +142,7 @@ _Content From Class_
 * Meetup.com clustering 
 	* Raw data from Meetup can be found [here](https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom)
 	* Category Membership Model (Michelle): here is the [clustering .ipynb file with annotations](/assets/docs/Meetup_Clustering_Sample.ipynb), here are the [results](/assets/docs/Meetup_clustering_sample.html), and here are the [output clusters as .csv](/assets/docs/Meetup_Members_Cluster_Group.csv)
-	* Group Descriptions Model (Abhay): [you can play around with the colab notebook here](https://colab.research.google.com/drive/1Ph4ff8oT5FHxNeCnjmUtB3RY7IO8sGyo)
+	* Group Descriptions Model (Abhay): [you can play around with the colab notebook here](https://drive.google.com/open?id=1TyAhlbdQDXtYLY5AmlUTcXSP9RyO-OZG)
 
 _Assignments Due Next Week_
 * **None** 
