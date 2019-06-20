@@ -16,3 +16,21 @@ h3 {
 a {
 	font-weight: bold
 }
+
+@font-face {
+font-family:"proxima-nova";
+src:url("/assets/fonts/proxima.otf") format("opentype");
+font-style:normal;font-weight:600;
+}
+
+@font-face {
+font-family:"proxima-nova";
+src:url("/assets/fonts/proxima-italic.otf") format("opentype");
+font-style:italic;font-weight:600;
+}
+
+@font-face {
+font-family:"acumin-pro";
+src:url("/assets/fonts/acumin.otf") format("opentype");
+font-style:normal;font-weight:200;
+}
