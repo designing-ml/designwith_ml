@@ -1,6 +1,6 @@
 ---
 title: Polytopal Launches
-image: /assets/img/blog/logo_black.jpg
+image: /assets/img/blog/logo-square-white-background.png
 description: >
   Class instructor launches a new design firm built for a future of pervasive machine intelligence.
 hide_description: false
