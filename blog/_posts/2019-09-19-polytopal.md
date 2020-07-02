@@ -1,5 +1,5 @@
 ---
-title: Standard Notation Launches
+title: Polytopal Launches
 image: /assets/img/blog/logo_black.jpg
 description: >
   Class instructor launches a new design firm built for a future of pervasive machine intelligence.
