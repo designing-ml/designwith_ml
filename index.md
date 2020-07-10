@@ -43,7 +43,7 @@ The discontinuity in values between fields
 As a courtesy, for appointments please schedule at least four hours in advance to give us time to prepare.
 
 * **Abhay's Office Hours**: [Abhay's Scheduling Link]
-* **Michelle's Office Hours**: By appointment via e-mail (michelle.r.carney@gmail.com) and Wednesdays from 2PM-3PM in d.School Bay Studios (please e-mail to confirm space). 
+* **Michelle's Office Hours**: By appointment via e-mail (michelle.r.carney@gmail.com) and Wednesdays from 2PM-3PM in d.School Bay Studios (please e-mail to confirm space).
 * **Anand's Office Hours**: By appointment via e-mail (datawocky@gmail.com) and Thursdays from 5PM-6PM in d.School Bay Studios (please e-mail to confirm space).
 
 [Abhay's Scheduling Link]: https://calendly.com/abhayka
@@ -68,7 +68,7 @@ _Readings Due Next Week_
 [Deloitte: State of AI in Enterprise]: https://www2.deloitte.com/content/dam/insights/us/articles/4780_State-of-AI-in-the-enterprise/DI_State-of-AI-in-the-enterprise-2nd-ed.pdf
 [Quartz: The Data that Transformed AI Research]: https://qz.com/1034972/the-data-that-changed-the-direction-of-ai-research-and-possibly-the-world/
 [The Verge: Wikipedia Engages Nuclear Option]: https://www.theverge.com/2018/12/4/18125359/wikipedia-trump-admin-account-security-hack
-[Human-Centered Machine Learning]: https://medium.com/google-design/human-centered-machine-learning-a770d10562cd 
+[Lingua Franca: A Design Language for Human-Centered AI]: http://linguafranca.polytopal.ai/
 
 ### Week 2
 
@@ -139,13 +139,13 @@ _Content From Class_
 * [Data Viz]
 * [Meetup Activity]
 * [Meetup.com API Tableau Visualization]
-* Meetup.com clustering 
+* Meetup.com clustering
 	* Raw data from Meetup can be found [here](https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom)
 	* Category Membership Model (Michelle): here is the [clustering .ipynb file with annotations](/assets/docs/Meetup_Clustering_Sample.ipynb), here are the [results](/assets/docs/Meetup_clustering_sample.html), and here are the [output clusters as .csv](/assets/docs/Meetup_Members_Cluster_Group.csv)
 	* Group Descriptions Model (Abhay): [you can play around with the colab notebook here](https://drive.google.com/open?id=1TyAhlbdQDXtYLY5AmlUTcXSP9RyO-OZG)
 
 _Assignments Due Next Week_
-* **None** 
+* **None**
 * Design Project #1 due in Week 6: [Design Project: Meetup]
 
 _Readings For Next Week_
@@ -206,7 +206,7 @@ _Content From Class_
 * Chris Donahue: [Pairing human control with generative models for creative content synthesis]
 
 _Assignments Due Next Week_
-* **None** 
+* **None**
 
 _Readings For Next Week_
 * [Analogy as the Core of Cognition]
